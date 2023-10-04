@@ -59,6 +59,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 
+		Novice::ScreenPrintf(0, 0, "Hello GitHub");
+
 		///
 		/// ↑描画処理ここまで
 		///
