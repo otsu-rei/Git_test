@@ -60,6 +60,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 
 		Novice::ScreenPrintf(0, 0, "Test comment");
+		Novice::ScreenPrintf(0, 20, "//2023, 10, 11");
 
 		///
 		/// ↑描画処理ここまで
