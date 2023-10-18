@@ -63,11 +63,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 20, "//2023, 10, 18");
 
 		// working plz...
-		
-		// merge
-
-
-		// merge
 
 		///
 		/// ↑描画処理ここまで
