@@ -67,6 +67,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		// merge
 
 
+		// merge
+
 		///
 		/// ↑描画処理ここまで
 		///
