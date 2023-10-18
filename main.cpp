@@ -64,7 +64,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		// working plz...
 		
-		// not merge ...
+		// merge
 
 
 		///
