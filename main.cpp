@@ -59,7 +59,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 
-		Novice::ScreenPrintf(0, 0, "pullReqest");
+		Novice::ScreenPrintf(0, 0, "123123123");
 		Novice::ScreenPrintf(0, 20, "//2023, 10, 18");
 
 		// working plz...
